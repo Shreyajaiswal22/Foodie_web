@@ -14,10 +14,11 @@ html{
 
 #navbar{
     display: flex;
-align-items: center;
+    align-items: center;
     font-family: 'Baloo Bhai 2', cursive;
     position:sticky;
     top: 0px;
+    vertical-align: middle;  
 
 }
 #navbar ::before{
